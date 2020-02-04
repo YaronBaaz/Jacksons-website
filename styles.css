@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial;
+}
+
+.jumbotron{
+        background-image: url(https://source.unsplash.com/pWkk7iiCoDM/4000x3000);
+       height: 100%;
+    }
+
+    img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+      }
