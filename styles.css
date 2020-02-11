@@ -1,10 +1,27 @@
 h1{
+    padding-top: 40px;
     font-family: Arial;
+}
+.navbar{
+    background-color: rgb(2, 1, 7)
 }
 
 .jumbotron{
-        background-image: url(https://source.unsplash.com/pWkk7iiCoDM/4000x3000);
-       height: 100%;
+        background-image: url(https://i.pinimg.com/originals/e2/d7/26/e2d7261cc9bdb9fe3ac5a32f5256e88d.jpg);
+       height:400px; 
+       background-position: bottom ;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: relative;
+       color: rgb(240, 247, 239);
+    }
+
+    .backg{
+        background-color:whitesmoke;
+    }
+    .button
+    {
+        padding-left: 60000px;
     }
 
     img {
