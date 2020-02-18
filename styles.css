@@ -18,6 +18,10 @@ h1{
 
     .backg{
         background-color:whitesmoke;
+    
+    }
+    .backg1{
+        background-color: rgb(97, 137, 248);
     }
     .button
     {
@@ -28,4 +32,11 @@ h1{
         display: block;
         max-width: 100%;
         height: auto;
+      }
+
+      h1.about{
+          text-align: center;
+      }
+      .row{
+          padding-top: 3%;
       }
