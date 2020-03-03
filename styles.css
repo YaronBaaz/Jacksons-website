@@ -3,7 +3,7 @@ h1{
     font-family: Arial;
 }
 .navbar{
-    background-color: rgb(2, 1, 7)
+    background-color: #f7f7f710
 }
 
 .jumbotron{
@@ -17,10 +17,10 @@ h1{
     }
 
     .backg{
-        background-color:whitesmoke;
+        background-color:black;
     
     }
-    .backg1{
+    .backgabout{
         background-color: rgb(97, 137, 248);
     }
     .button
@@ -40,3 +40,12 @@ h1{
       .row{
           padding-top: 3%;
       }
+
+#sameheight{
+    height: 500px !important;
+}
+
+#widepic{
+    width: 100% !important;
+    height: auto !important;
+}
